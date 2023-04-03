@@ -1,0 +1,8 @@
+{
+    "project_id": "your-google-cloud-project-id",
+    "region_id": "dataflow-region",
+    "bucket_id": "your-gcs-bucket-id",
+    "csv_file": "path/to/your/csv/file",
+    "dataset_id": "your-bigquery-dataset-id",
+    "table_id": "your-bigquery-table-id"
+}
