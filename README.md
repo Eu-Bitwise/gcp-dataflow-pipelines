@@ -24,7 +24,7 @@ This repo contains a Python script that reads a CSV file from Google Cloud Stora
 }
 ```
 
-Replace the placeholder values with your actual Google Cloud project ID, GCS bucket ID, CSV file path, and BigQuery dataset and table IDs.
+Replace the placeholder values with your actual Google Cloud project ID, GCS bucket ID, CSV file path, BigQuery dataset and table IDs.
 
 # Usage 
 
